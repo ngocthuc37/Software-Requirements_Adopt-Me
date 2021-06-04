@@ -2,6 +2,7 @@
 
 # SOFTWARE REQUIREMENTS
 # ADOPT ME
+# I'm a member of develop team - My role is Business Analyst (BA)
 
 <p align="left">
 <img src="https://img.shields.io/badge/version-1.1.0-blue">
